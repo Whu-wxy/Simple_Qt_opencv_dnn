@@ -26,3 +26,4 @@ LIBS += D:\OpenCVMinGW3.4.1\bin\libopencv_*.dll
 5.Run
 
 # Result
+![Result Image](/result.png)
